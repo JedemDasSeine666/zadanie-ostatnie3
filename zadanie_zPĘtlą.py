@@ -3,3 +3,4 @@ for i in range(0,101):
         print(i)
         x = [(i * i * i)]
         print(x)
+#takie coś
