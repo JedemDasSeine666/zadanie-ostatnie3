@@ -18,3 +18,4 @@ for i in shopping_list.values():
 print('W sumie kupuję', x, 'produktów')
 #zmiana 1
 
+#zmiana5
